@@ -2,4 +2,5 @@
 
 For the Contributing to OSS Workshop at Scottish RubyConf 2014 
 
+[Bundler contributing guide](https://github.com/bundler/bundler/blob/master/CONTRIBUTING.md)
 [Workshop outline](https://docs.google.com/document/d/1k2i4bwSfdRpCQ8x78G_b7av8vCrGzpveq6W0VAQFaeI/edit?usp=sharing)
